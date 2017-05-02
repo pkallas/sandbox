@@ -14,3 +14,10 @@ Chess Mating Patterns 1
 The goal of any chess game is to checkmate your opponent so all players should be aware of the most common mating patterns that occur frequently in chess games. You would be surprised how many beginners AND skilled chess players end up drawing a game, or even lose a game after missing a checkmate.
 There are many times where you must sacrifice a queen or a queen and rook to win a game. There are other times where you have to remove a certain defender before you can continue your master plan to checkmate your opponent. Whatever the case, there are many checkmates that you will see time and time again and the goal is to not only know how to notice them but also learn to see how a position can lead to one of these mating patterns. Once you learn all these mating patterns you will definitely start winning more games.
 Watch the video below to watch more detailed explanations of the most common mating patterns in chess.
+
+Chess Mating Patterns 2
+This is a continuation of the first series on chess mating patterns.
+There are many mating patterns that come up over and over and it is essential that you are aware of what they are.
+Many times you can turn a losing situation into a winning game or close out a game that you might not otherwise pull out.
+Pay very close attention to the video and really see if you can notice some of the trends in mating patterns before I go over them in the video.
+Watch the video below to watch more detailed explanations of the most common mating patterns in chess.
