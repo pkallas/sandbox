@@ -1,0 +1,10 @@
+Discovered Features:
+Atom can skip over tabbed sections of text while scrolling
+Atom auto-indents based on your previous indentations when pasting text
+Learned shortcuts for inserting new lines before and after current line
+Learned shortcut for moving current character to new line
+
+Favorite Editor Plugins:
+  https://github.com/olegberman/atom-shortcuts
+  https://github.com/davidlgoldberg/qolor
+  https://atom.io/packages/web-view
