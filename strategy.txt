@@ -13,3 +13,9 @@ Need Queen that can jump to h5
 Need bishop along the c1-h6 diagonal (usually seen on c1)
 Need pawn on e5
 Make sure that you have these things or this sacrifice is doomed from the beginning.
+
+
+Chess Mating Patterns 1
+The goal of any chess game is to checkmate your opponent so all players should be aware of the most common mating patterns that occur frequently in chess games. You would be surprised how many beginners AND skilled chess players end up drawing a game, or even lose a game after missing a checkmate.
+There are many times where you must sacrifice a queen or a queen and rook to win a game. There are other times where you have to remove a certain defender before you can continue your master plan to checkmate your opponent. Whatever the case, there are many checkmates that you will see time and time again and the goal is to not only know how to notice them but also learn to see how a position can lead to one of these mating patterns. Once you learn all these mating patterns you will definitely start winning more games.
+Watch the video below to watch more detailed explanations of the most common mating patterns in chess.
