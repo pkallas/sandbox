@@ -8,3 +8,10 @@ Favorite Editor Plugins:
   https://github.com/olegberman/atom-shortcuts
   https://github.com/davidlgoldberg/qolor
   https://atom.io/packages/web-view
+
+Favorite Emacs Plugins:
+Emacs Javascript Mode
+https://github.com/mooz/js2-mode/
+
+The Clojure / ClojureScript Interactive Development Environment that Rocks for Emacs
+https://github.com/clojure-emacs/cider
