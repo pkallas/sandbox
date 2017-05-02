@@ -21,3 +21,7 @@ There are many mating patterns that come up over and over and it is essential th
 Many times you can turn a losing situation into a winning game or close out a game that you might not otherwise pull out.
 Pay very close attention to the video and really see if you can notice some of the trends in mating patterns before I go over them in the video.
 Watch the video below to watch more detailed explanations of the most common mating patterns in chess.
+
+Chess games are usually either open or closed and it’s important to know the difference between the two. Open games are those games where the pawn structure is not locking up the middle and there is lots of wide open spaces for pieces to move. Closed games, like the image to the right, are those games where the pawns have a defined structure and blocking the mobility of different pieces.
+Bishops tend to fair better in open games as their strength is using long diagonals. Knights tend to do better in closed games as they can move around to every square where a bishop can easily get blocked in and become useless. Always be mindful in every chess game if it is open or closed and act accordingly.
+Watch the video below to watch more detailed explanations of the open and closed games.
