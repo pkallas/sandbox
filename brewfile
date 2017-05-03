@@ -1,0 +1,5 @@
+tap 'homebrew/completions'
+tap 'calc'
+tap 'bit'
+tap 'awscli'
+tap 'postgrest'
