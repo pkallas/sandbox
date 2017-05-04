@@ -1,0 +1,13 @@
+Useful Debugging Tools
+
+Console.table()  —> Transfers dataset into an interactive table
+
+Console.dir() —> Displays object as a JavaScript representation
+
+Console.dirxml() —> Displays object in the language in which it is written
+
+Console.time() and console.timeEnd() —> Displays how long a piece of code takes to execute
+
+Watch Expressions —> Similar to console.log(), displays the value of any expression in the code without having to console.log() every variable
+
+Use Breakpoints to pause the code at a point that you specify; useful for inspecting specific lines or areas of code
